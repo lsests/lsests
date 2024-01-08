@@ -1,4 +1,4 @@
-### Hi there 👋
+📈 This is my university account. I'm studying for an MSc in Statistics at the London School of Economics and Political Science.
 
 <!--
 **lsests/lsests** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
